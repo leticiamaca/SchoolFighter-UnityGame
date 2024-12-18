@@ -6,7 +6,7 @@ public class EnemyRanged : MonoBehaviour
     private Animator animator;
     private bool facingRight;
     private bool previousDirectionRight;
-    private bool isDead;
+    private bool isDead = false;
     private Transform target;
     private float enemySpeed = 0.3f;
     private float currentSpeed;
@@ -28,6 +28,7 @@ public class EnemyRanged : MonoBehaviour
 
     private float attackRate = 1f;
     private float nextAttack;
+
 
     public Sprite enemyImage;
 

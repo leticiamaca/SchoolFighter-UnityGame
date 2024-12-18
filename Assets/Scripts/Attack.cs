@@ -34,6 +34,12 @@ public class Attack : MonoBehaviour
 
 
         }
+        if (enemyRanged != null)
+        {
+           enemyRanged.TakeDamage(damage);
+
+
+        }
 
 
         // Se a colisão foi com um inimigo
@@ -44,5 +50,7 @@ public class Attack : MonoBehaviour
             audioSource.clip = hitSound;
             audioSource.Play();
         }
+
+
     }
 }
