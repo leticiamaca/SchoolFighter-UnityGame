@@ -17,6 +17,8 @@ Utilizamos animações e ilustrações 2D feitas especialmente para o jogo, traz
 This game was developed with support from professors **Thiago Nascimento** and **Felipe Tadeu** at SENAI.  
 We used custom-made 2D animations and illustrations to create a fun school-themed visual and classic *beat 'em up* combat.
 
+<div><img src="./jogo-img-2.jpeg"></div>
+
 ## 🛠️ Tecnologias | Technologies
 
 - Unity Engine 🎮  
@@ -55,6 +57,8 @@ git clone https://github.com/leticiamaca/SchoolFighter-UnityGame
 # Open the project in Unity (version 2021.x or higher)
 # Click Play to start the game
 ```
+
+<div><img src="./jogo-img-3.jpeg"></div>
 
 ## 📚 Aprendizados | What I Learned
 
