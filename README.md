@@ -1,6 +1,10 @@
 # 🥊 School Fighter - Unity 2D Game
 
+### Esse projeto é apenas uma demo de um jogo Beat'em up, apenas para testar os nossos conhecimentos e experimentar os primeiros passos com a Unity.
+
 🎮 Projeto de jogo 2D no estilo *beat 'em up*, desenvolvido com Unity e C# durante o curso técnico do SENAI.
+
+<div><img src="./jogo-img-1.jpeg"></div>
 
 ## 📌 Sobre o Projeto | About the Project
 
@@ -8,6 +12,7 @@ Este jogo foi desenvolvido com o apoio dos professores **Thiago Nascimento** e *
 Utilizamos animações e ilustrações 2D feitas especialmente para o jogo, trazendo uma estética escolar divertida e combates no estilo clássico *beat 'em up*.
 
 ---
+### This Game it's just a demo for studying and developing with Unity!
 
 This game was developed with support from professors **Thiago Nascimento** and **Felipe Tadeu** at SENAI.  
 We used custom-made 2D animations and illustrations to create a fun school-themed visual and classic *beat 'em up* combat.
